@@ -6,7 +6,7 @@ class Project {
 
 List<Project> demoProjects = [
   Project(
-    gitHubUrl: "https://github.com/Kushal25Gupta/flutter_portfolio",
+    gitHubUrl: "https://github.com/Kushal25Gupta/kushal_portfolio",
     title: "Responsive Portfolio App- Flutter Web, Android & iOS App",
     description:
         "Developed a responsive personal portfolio application using Flutter for Web, Android, and iOS. This app showcases my professional work, skills, and projects in a visually appealing and interactive format. The portfolio includes detailed sections about my background, experience, and achievements, providing a comprehensive overview of my capabilities. The app is designed to be fully responsive, ensuring an optimal viewing experience across different devices and screen sizes.",

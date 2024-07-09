@@ -11,5 +11,5 @@ class Urls {
   static const String leetCodeUrl = "https://leetcode.com/u/Kushal25Gupta/";
 
   static const String downloadCvUrl =
-      "https://drive.google.com/file/d/18eRDPykbzKx7pGjtk13Xfj5aekDwnvh-/view?usp=share_link";
+      "https://drive.google.com/file/d/1IiDRMAaNAjwLjEW-lXjLDfa9WjT3RP8E/view?usp=share_link";
 }
