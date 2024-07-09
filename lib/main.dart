@@ -6,7 +6,7 @@ import 'constant/constant.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(
-      SystemUiOverlayStyle(statusBarColor: bgColor));
+      const SystemUiOverlayStyle(statusBarColor: bgColor));
   runApp(const MyApp());
 }
 
